@@ -70,7 +70,7 @@ This project satisfies the following requirements:
 ## 📂 Repository Structure
 
 ITAI-1371_Mid_Term_EDA_Group_ML_19179_3/
-
+```text
 │
 ├── README.md
 ├── data/
@@ -85,6 +85,7 @@ ITAI-1371_Mid_Term_EDA_Group_ML_19179_3/
 │   ├── dataset_proposal.pdf
 │   └── detailed_project_report.pdf
 └── requirements.txt
+````
 
 ---
 
