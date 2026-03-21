@@ -133,8 +133,10 @@ ITAI-1371_Mid_Term_EDA_Group_ML_19179_3/
 │   │   ├── HR Analytics Job - Change of Data Scientists.zip
 │   │   └── url.txt              
 │   ├── processed/     
-│       ├── hr_jobchange_train_clean.csv
-│       └── hr_jobchange_test_clean.csv      
+│       ├── hr_jobchange_train_processed.csv
+│       ├── hr_jobchange_test_processed.csv
+│       ├── hr_jobchange_train_raw_split.csv
+│       └── hr_jobchange_test_raw_split.csv      
 │
 ├── docs/
 │   ├── original_dataset_url.pdf
